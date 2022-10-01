@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="MoliGeek",
-    version="V1.0.0",
+    version="V0.1.0",
     author="yourmoln",
     author_email="help@api-coolplaylin.eu.org",
     description=r"MoliGeek's dependency library",
